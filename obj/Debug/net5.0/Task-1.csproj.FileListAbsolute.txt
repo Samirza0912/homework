@@ -1,0 +1,15 @@
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.csproj.AssemblyReference.cache
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.AssemblyInfoInputs.cache
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.AssemblyInfo.cs
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.csproj.CoreCompileInputs.cache
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/bin/Debug/net5.0/Task-1.deps.json
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/bin/Debug/net5.0/Task-1.runtimeconfig.json
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/bin/Debug/net5.0/Task-1.runtimeconfig.dev.json
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/bin/Debug/net5.0/Task-1.dll
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/bin/Debug/net5.0/ref/Task-1.dll
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/bin/Debug/net5.0/Task-1.pdb
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.dll
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/ref/Task-1.dll
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.pdb
+/Users/samiramiraslanov/Desktop/tasks/Assignment-1/Task-1/obj/Debug/net5.0/Task-1.genruntimeconfig.cache
